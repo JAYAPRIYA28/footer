@@ -71,10 +71,10 @@ function Footer(){
         <p className="flex pl-20 pt-10">
         
         
-        <img className="  sm:w-8  sm:h-14  sm:mt-6  sm:ml-64"   src="assets/icons8-twitter-48.png"></img>
-        <img className=" sm:w-10  sm:h-14  sm:mt-6  sm:ml-8" src="assets/icons8-linkedin-48.png"></img> 
-         <img className=" sm:w-8  sm:h-11  sm:mt-6  sm:ml-8" src="assets/facebook.png"></img>
-         <img className=" sm:w-8  sm:h-11  sm:mt-6  sm:ml-8" src="assets/icons8-google-48.png"></img>
+         <img className="  sm:w-10  sm:h-14  sm:mt-6  sm:ml-64"   src="assets/icons8-twitter-48.png"></img>
+         <img className=" sm:w-12  sm:h-16  sm:mt-4 sm:mb-3   sm:ml-8" src="assets/icons8-linkedin-48.png"></img> 
+         <img className=" sm:w-10  sm:h-11  sm:mt-6  sm:ml-8" src="assets/facebook.png"></img>
+         <img className=" sm:w-10  sm:h-11  sm:mt-6  sm:ml-8" src="assets/icons8-google-48.png"></img>
         </p>
         </div>
         </div>
